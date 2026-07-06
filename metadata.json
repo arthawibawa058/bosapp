@@ -1,0 +1,6 @@
+{
+  "name": "BOS MSME Minuman",
+  "description": "Sistem Operasi Bisnis (BOS) lengkap untuk UMKM minuman Indonesia (Kopi, Teh, Boba, Juice) dengan POS, Inventory (BOM), Manajemen Karyawan, Pengeluaran, Multi-Cabang, Absensi Selfie & GPS, dan Laporan Analitik.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
